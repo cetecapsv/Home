@@ -34,6 +34,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/final-128x99.png",
+    "noImageResize": "",
     "uniqCompNum": 1,
     "versionPublish": "4.8.10"
   },
