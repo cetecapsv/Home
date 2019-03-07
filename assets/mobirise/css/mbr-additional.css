@@ -669,6 +669,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -3334,7 +3335,7 @@ body {
 .cid-rdn3cFTTXb {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1271.jpg");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-rdn3cFTTXb .icons-media-container {
   display: flex;
